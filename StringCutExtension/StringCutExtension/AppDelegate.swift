@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  StringCutExtension
 //
-//  Created by 伟华 on 17/4/24.
+//  Created by Weihua on 17/4/24.
 //  Copyright © 2017年 WH. All rights reserved.
 //
 

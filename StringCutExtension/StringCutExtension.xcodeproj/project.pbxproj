@@ -12,6 +12,7 @@
 		D110EDDA1EADD84A0022F42A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D110EDD81EADD84A0022F42A /* Main.storyboard */; };
 		D110EDDC1EADD84A0022F42A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D110EDDB1EADD84A0022F42A /* Assets.xcassets */; };
 		D110EDDF1EADD84A0022F42A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D110EDDD1EADD84A0022F42A /* LaunchScreen.storyboard */; };
+		D110EFB21EAE06430022F42A /* String+SubString.swift in Sources */ = {isa = PBXBuildFile; fileRef = D110EFB11EAE06430022F42A /* String+SubString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D110EDDB1EADD84A0022F42A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D110EDDE1EADD84A0022F42A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D110EDE01EADD84A0022F42A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D110EFB11EAE06430022F42A /* String+SubString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+SubString.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D110EDD41EADD84A0022F42A /* AppDelegate.swift */,
 				D110EDD61EADD84A0022F42A /* ViewController.swift */,
+				D110EFB11EAE06430022F42A /* String+SubString.swift */,
 				D110EDD81EADD84A0022F42A /* Main.storyboard */,
 				D110EDDB1EADD84A0022F42A /* Assets.xcassets */,
 				D110EDDD1EADD84A0022F42A /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D110EFB21EAE06430022F42A /* String+SubString.swift in Sources */,
 				D110EDD71EADD84A0022F42A /* ViewController.swift in Sources */,
 				D110EDD51EADD84A0022F42A /* AppDelegate.swift in Sources */,
 			);
@@ -304,6 +308,7 @@
 				D110EDE51EADD84A0022F42A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
